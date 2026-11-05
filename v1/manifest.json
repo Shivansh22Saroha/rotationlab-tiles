@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "tileSize": 256,
+  "format": "webp",
+  "layout": "google",
+  "source": {
+    "repo": "https://github.com/pubg/api-assets",
+    "commit": "32b13b51128b8d8909ae5e77f3b833e01230b24d"
+  },
+  "generatedAt": "2026-11-04T16:54:00.548Z",
+  "maps": {
+    "erangel": {
+      "map": "erangel",
+      "sourceSize": 8192,
+      "paddedSize": 8192,
+      "maxNativeZoom": 5,
+      "variants": {
+        "labels": {
+          "sourceSize": 8192,
+          "paddedSize": 8192,
+          "maxNativeZoom": 5,
+          "sha256": "5dc33eac3af60b375cb0e29b7648132dbaa164c75c0310368e8ae585bcbecc45",
+          "tileCount": 1365,
+          "bytes": 12587174
+        },
+        "clean": {
+          "sourceSize": 8192,
+          "paddedSize": 8192,
+          "maxNativeZoom": 5,
+          "sha256": "95cfc674988affbf880ac8786ff8db9a104d11069adc3b214ba3490f7822ae42",
+          "tileCount": 1365,
+          "bytes": 12573264
+        }
+      },
+      "preview": "erangel/preview.jpg",
+      "card": "erangel/card.webp",
+      "thumbnail": "erangel/thumb.jpg",
+      "lowres": {
+        "file": "erangel/lowres.jpg",
+        "sourceFormat": "png",
+        "sourceSize": 819,
+        "sha256": "56bd4bf0bdcd5e902ef4c232bc54d9546ae0a6cc8b881833f45f0f0a9e93aea9"
+      }
+    },
+    "miramar": {
+      "map": "miramar",
+      "sourceSize": 8192,
+      "paddedSize": 8192,
+      "maxNativeZoom": 5,
+      "variants": {
+        "labels": {
+          "sourceSize": 8192,
+          "paddedSize": 8192,
+          "maxNativeZoom": 5,
+          "sha256": "7d8a9878b699c7eb51fecda2bc57b9e75e2120c3117b9c9e95b03dd8ab5a42a9",
+          "tileCount": 1365,
+          "bytes": 17547938
+        },
+        "clean": {
+          "sourceSize": 8192,
+          "paddedSize": 8192,
+          "maxNativeZoom": 5,
+          "sha256": "335f6bf00cf4f828d401fc17cc0373704fcdcd94a38bd809c3f7d74d626c14c9",
+          "tileCount": 1365,
+          "bytes": 17542656
+        }
+      },
+      "preview": "miramar/preview.jpg",
+      "card": "miramar/card.webp",
+      "thumbnail": "miramar/thumb.jpg",
+      "lowres": {
+        "file": "miramar/lowres.jpg",
+        "sourceFormat": "png",
+        "sourceSize": 819,
+        "sha256": "25e47254abf6a1b339f4a030ed323f8947fcbd0628c530eba7c0973d5d45ea14"
+      }
+    },
+    "rondo": {
+      "map": "rondo",
+      "sourceSize": 8192,
+      "paddedSize": 8192,
+      "maxNativeZoom": 5,
+      "variants": {
+        "labels": {
+          "sourceSize": 8192,
+          "paddedSize": 8192,
+          "maxNativeZoom": 5,
+          "sha256": "d1a7c9fe2639bc3aeca2add03feddfd4bcd48fedf28f2ca3333ad2a4bad2712e",
+          "tileCount": 1365,
+          "bytes": 18474030
+        },
+        "clean": {
+          "sourceSize": 8192,
+          "paddedSize": 8192,
+          "maxNativeZoom": 5,
+          "sha256": "f40fbd366ee47d7433b042ff622d55fc3db4c4bea5fe40d1b151bd1025849491",
+          "tileCount": 1365,
+          "bytes": 19415904
+        }
+      },
+      "preview": "rondo/preview.jpg",
+      "card": "rondo/card.webp",
+      "thumbnail": "rondo/thumb.jpg",
+      "lowres": {
+        "file": "rondo/lowres.jpg",
+        "sourceFormat": "jpg",
+        "sourceSize": 819,
+        "sha256": "f5d8e3a390f9d979396f8055eb9a555157d12e94a57b62452c69f21f661eee14"
+      }
+    }
+  },
+  "icons": {
+    "dir": "icons/items",
+    "count": 80,
+    "bytes": 128008
+  }
+}
